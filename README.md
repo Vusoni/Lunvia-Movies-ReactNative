@@ -34,7 +34,13 @@ A React Native + TypeScript mobile application that consumes The Movie Database 
 
 
 **Preview**
-![image alt](https://github.com/Vusoni/Vusoni/blob/49dce33d5474e5392682b4ee3993310556f29bde/banner.png)
+![image alt](https://github.com/Vusoni/Lunvia-Movies-ReactNative/blob/2e25850b70e9bbe12eb6f4f6ec7689450c808e73/preview-3.png)
+
+![image alt](https://github.com/Vusoni/Lunvia-Movies-ReactNative/blob/2e25850b70e9bbe12eb6f4f6ec7689450c808e73/preview-2.png)
+
+![image alt](https://github.com/Vusoni/Lunvia-Movies-ReactNative/blob/2e25850b70e9bbe12eb6f4f6ec7689450c808e73/preview-1.png)
+
+
 
 <!-- Divider -->
 <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" alt="" width="1" height="20" />

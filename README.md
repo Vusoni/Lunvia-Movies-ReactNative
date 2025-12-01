@@ -1,4 +1,4 @@
-<h1 align="center">Lunvia-Movies-ReactNative 🎬</h1>
+<h1 align="center">Lunvia ReactNative Movies 🎬</h1>
 
 <hr style="border:1px solid #eee; margin: 20px 0;" />
 

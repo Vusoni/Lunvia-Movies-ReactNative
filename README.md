@@ -34,9 +34,7 @@ Built as part of my React Native learning journey — a sandbox to practice API 
 
 <h2>Preview</h2>
 <p>
-<img src="https://github.com/Vusoni/Lunvia-Movies-ReactNative/blob/2e25850b70e9bbe12eb6f4f6ec7689450c808e73/preview-3.png" width="300" />
-<img src="https://github.com/Vusoni/Lunvia-Movies-ReactNative/blob/2e25850b70e9bbe12eb6f4f6ec7689450c808e73/preview-2.png" width="300" />
-<img src="https://github.com/Vusoni/Lunvia-Movies-ReactNative/blob/2e25850b70e9bbe12eb6f4f6ec7689450c808e73/preview-1.png" width="300" />
+<img src="https://github.com/Vusoni/Lunvia-Movies-ReactNative/blob/9297d72bffc7124abef15d8715017f579434e4cb/screenshots.png" width="600" />
 </p>
 
 <hr style="border:1px solid #eee; margin: 20px 0;" />
@@ -86,5 +84,3 @@ It is <strong>not intended to run on the web</strong>, and opening it in a web b
 This project was created as a part of my React Native learning journey. 
 Feel free to explore, fork, or learn from the structure.
 </p>
-
-
